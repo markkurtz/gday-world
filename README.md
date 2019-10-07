@@ -1,2 +1,2 @@
-# gday-world
+# goodday-world
 Australian version of hello world
